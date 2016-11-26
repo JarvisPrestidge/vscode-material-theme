@@ -1,0 +1,27 @@
+{
+    "name": "theme-material-theme",
+    "displayName": "Sublime Material Theme",
+    "description": "Port of the light and dark Material theme for sublime.",
+    "version": "0.0.1",
+    "publisher": "JarvisPrestige",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sublime Material Theme - Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material-Theme.tmTheme"
+            },
+            {
+                "label": "Sublime Material Theme - Light",
+                "uiTheme": "vs",
+                "path": "./themes/Material-Theme-Lighter.tmTheme"
+            }
+        ]
+    }
+}
