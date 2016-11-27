@@ -3,7 +3,7 @@
     "displayName": "Sublime Material Theme",
     "description": "Port of the Material theme for sublime.",
     "version": "0.0.1",
-    "publisher": "JarvisPrestige",
+    "publisher": "jarvisprestige",
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -12,6 +12,10 @@
     ],
     "icon": "icon.png",
     "homepage": "https://github.com/JarvisPrestidge/VSCode-Material-Theme",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:JarvisPrestidge/VSCode-Material-Theme.git"
+	},
     "bugs": {
 	"url": "https://github.com/JarvisPrestidge/VSCode-Material-Theme/issues",
 	"email": "jarvisprestidge@gmail.com"
