@@ -12,10 +12,12 @@
     ],
     "icon": "icon.png",
     "homepage": "https://github.com/JarvisPrestidge/VSCode-Material-Theme",
-    "bugs": "https://github.com/JarvisPrestidge/VSCode-Material-Theme/issues",
+    "bugs": {
+	"url": "https://github.com/JarvisPrestidge/VSCode-Material-Theme/issues",
+	"email": "jarvisprestidge@gmail.com"
+	},
     "license": "SEE LICENSE IN LICENSE.md",
     "keywords": [
-        "vscode",
         "sublime",
         "material",
         "theme",
