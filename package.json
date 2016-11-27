@@ -1,9 +1,9 @@
 {
     "name": "theme-material-theme",
     "displayName": "Sublime Material Theme",
-    "description": "Port of the Material theme for sublime.",
-    "version": "0.0.1",
-    "publisher": "jarvisprestige",
+    "description": "Port of the Material Theme for Sublime Text.",
+    "version": "1.0.0",
+    "publisher": "jprestidge",
     "engines": {
         "vscode": "^1.5.0"
     },

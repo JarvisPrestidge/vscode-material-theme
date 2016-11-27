@@ -7,15 +7,14 @@ This is simply a port to align the style of the theme with the default VSCode ch
 
 ## Dark
 ---
-![Dark Theme](./media/dark.png)
+![Dark Theme](https://raw.githubusercontent.com/JarvisPrestidge/VSCode-Material-Theme/master/media/dark.png)
 
 ## Light 
 ---
-![Light Theme](./media/light.png)
+![Light Theme](https://raw.githubusercontent.com/JarvisPrestidge/VSCode-Material-Theme/master/media/light.png)
 
 If you have any change requests feel free to create an issue [here](https://github.com/JarvisPrestidge/VSCode-Material-Theme/issues).
 
 And follow me on [Github](https://github.com/JarvisPrestidge)!
-
 
 **Enjoy :)**
