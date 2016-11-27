@@ -13,7 +13,7 @@ This is simply a port to align the style of the theme with the default VSCode ch
 ---
 ![Light Theme](./media/light.png)
 
-If you have any issues or change requests feel free to create an issue [here](https://github.com/JarvisPrestidge/VSCode-Material-Theme/issues).
+If you have any change requests feel free to create an issue [here](https://github.com/JarvisPrestidge/VSCode-Material-Theme/issues).
 
 And follow me on [Github](https://github.com/JarvisPrestidge)!
 

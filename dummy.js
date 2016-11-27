@@ -1,3 +1,4 @@
+
 // Start of dummy file
 var logUpperCase = function() {
   var _this = this
@@ -21,6 +22,6 @@ function materialfunc(param) {
         "text": text,
         "boolean": false
     };
-}
+} 
 
 //© 2016 GitHub, Inc. Terms Privacy Security Status Help

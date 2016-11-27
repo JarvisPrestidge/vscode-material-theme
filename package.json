@@ -1,7 +1,7 @@
 {
     "name": "theme-material-theme",
     "displayName": "Sublime Material Theme",
-    "description": "Port of the light and dark Material theme for sublime.",
+    "description": "Port of the Material theme for sublime.",
     "version": "0.0.1",
     "publisher": "JarvisPrestige",
     "engines": {
