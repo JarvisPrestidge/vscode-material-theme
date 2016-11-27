@@ -11,13 +11,13 @@
         "Themes"
     ],
     "icon": "icon.png",
-    "homepage": "https://github.com/JarvisPrestidge/VSCode-Material-Theme",
+    "homepage": "https://github.com/JarvisPrestidge/vscode-material-theme",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:JarvisPrestidge/VSCode-Material-Theme.git"
+		"url": "https://github.com/JarvisPrestidge/vscode-material-theme.git"
 	},
     "bugs": {
-	"url": "https://github.com/JarvisPrestidge/VSCode-Material-Theme/issues",
+	"url": "https://github.com/JarvisPrestidge/vscode-material-theme/issues",
 	"email": "jarvisprestidge@gmail.com"
 	},
     "license": "SEE LICENSE IN LICENSE.md",
