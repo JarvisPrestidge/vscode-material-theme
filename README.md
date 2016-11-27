@@ -1,13 +1,6 @@
-# README
-## This is the README for your extension "theme-material-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Sublime Material Theme
+### All credit goes to ***Mattia Astorino*** for originally developing this amazing theme for sublime text. This is simply a port to align the style of the theme with the default VSCode chrome that cannot be changed atm. 
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [The original github repo](https://github.com/equinusocio/material-theme)
 
 **Enjoy!**

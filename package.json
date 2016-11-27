@@ -10,6 +10,18 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
+    "homepage": "https://github.com/JarvisPrestidge/VSCode-Material-Theme",
+    "bugs": "https://github.com/JarvisPrestidge/VSCode-Material-Theme/issues",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "keywords": [
+        "vscode",
+        "sublime",
+        "material",
+        "theme",
+        "light",
+        "dark"
+    ],
     "contributes": {
         "themes": [
             {
